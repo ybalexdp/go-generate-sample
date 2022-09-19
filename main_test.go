@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/golang/mock/gomock"
-	"github.com/ybalexdp/go-generate-sample/domain/item/model"
+	model "github.com/ybalexdp/go-generate-sample/domain/model/item"
 	mock_repository "github.com/ybalexdp/go-generate-sample/mock/repository"
 )
 
